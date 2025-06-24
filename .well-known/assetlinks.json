@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "de.app_4lima.ffwolferntest.twa",
+      "sha256_cert_fingerprints": [
+        "24:EA:39:92:31:FF:53:DF:62:5F:C9:57:EB:9E:D5:6A:37:D0:84:9A:FE:42:D2:C5:0F:7D:72:3E:02:3E:5A:84"
+      ]
+    }
+  }
+]
